@@ -1,0 +1,4 @@
+3x3 puzzles
+Total nodes generated: 382882
+Max nodes in memory: 123971
+^ solver12

@@ -1,0 +1,15 @@
+3x3 puzzles
+local beam
+Total nodes generated: 300156
+Max nodes in memory: 1003
+
+No solution found
+Total nodes generated: 378468
+Max nodes in memory: 1003
+
+No solution found
+Total nodes generated: 378183
+Max nodes in memory: 1003
+4x3 puzzles
+
+k = 1000

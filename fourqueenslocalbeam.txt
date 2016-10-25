@@ -1,0 +1,19 @@
+4 queens:
+Total nodes generated: 100
+Max nodes in memory: 74
+
+5 queens:
+Total nodes generated: 246
+Max nodes in memory: 196
+
+6 queens:
+Total nodes generated: 2987
+Max nodes in memory: 2488
+
+7 queens:
+Total nodes generated: 7033
+Max nodes in memory: 6027
+
+8 queens:
+Total nodes generated: 36036
+Max nodes in memory: 31530
